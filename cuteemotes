@@ -486,6 +486,8 @@ AddEmote("Sweet Hug Pose V2", 79076692213299)
 AddEmote("Head Pat High", 120833029935011)
 AddEmote("Cute Hug Pose 1", 81874921102056)
 AddEmote("Hug", 90892690280238)
+AddEmote("Angry Idle", 91171596265030)
+AddEmote("cute shy withdrawn sit", 81204065393762)
 
 
 --finished loading
