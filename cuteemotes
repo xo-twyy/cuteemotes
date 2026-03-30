@@ -224,32 +224,6 @@ SearchBar.Parent = BackFrame
         
 
 
-        
-		-- twy watermarks 
-
-
-local MadeByLabel = Instance.new("TextLabel")
-MadeByLabel.Text = "twy<3"
-MadeByLabel.TextScaled = true
-MadeByLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-MadeByLabel.BackgroundTransparency = 0.3
-MadeByLabel.TextColor3 = Color3.new(1, 1, 1)
-MadeByLabel.BorderSizePixel = 0
-MadeByLabel.AnchorPoint = Vector2.new(0.5, 0.5)
-MadeByLabel.Position = UDim2.new(1, 0, 1, 0)
-MadeByLabel.Size = UDim2.new(0.25, 0, 0.06, 0)
-Corner:Clone().Parent = MadeByLabel
-MadeByLabel.Parent = BackFrame
-local function openemotes(name, state, input)
-	if state == Enum.UserInputState.Begin then
-		ScreenGui.Enabled = not ScreenGui.Enabled
-	end
-end
-
-
-
-
-
 		-- same
 
 local function openemotes(name, state, input)
@@ -489,6 +463,7 @@ AddEmote("Cute Hug Pose 1", 81874921102056)
 AddEmote("Hug", 90892690280238)
 AddEmote("Angry Idle", 91171596265030)
 AddEmote("cute shy withdrawn sit", 81204065393762)
+AddEmote("Making Face" , 89535391366809)
 
 
 --finished loading
