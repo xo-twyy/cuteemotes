@@ -464,6 +464,8 @@ AddEmote("Hug", 90892690280238)
 AddEmote("Angry Idle", 91171596265030)
 AddEmote("cute shy withdrawn sit", 81204065393762)
 AddEmote("Making Face" , 89535391366809)
+AddEmote("Non Chalant Sit" , 85092320680319)
+AddEmote("feelin myself" , 74941409284905)
 
 
 --finished loading
