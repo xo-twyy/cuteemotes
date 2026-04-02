@@ -466,6 +466,8 @@ AddEmote("cute shy withdrawn sit", 81204065393762)
 AddEmote("Making Face" , 89535391366809)
 AddEmote("Non Chalant Sit" , 85092320680319)
 AddEmote("feelin myself" , 74941409284905)
+AddEmote("Joy Ride Left", 106015503327885)
+AddEmote("Joy Ride Right", 103149155540509)
 
 
 --finished loading
