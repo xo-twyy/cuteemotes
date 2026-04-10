@@ -437,6 +437,7 @@ local customEmotes = {
     {Name = "Sturdy Dance - Ice Spice", Id = 17746270218, Price = 50, Index = 21},
 	{Name = "TWICE ABCD by Nayeon", Id = 18933761755, Price = 50, Index = 19},
 	{Name = "Arm Twist", Id = 9710992846, Price = 50, Index = 97},
+	{Name = "Rise Above - The Chainsmokers", Id = 13071993910, Price = 50, Index = 91},
 }
 
 
